@@ -1,0 +1,6 @@
+openai
+requests
+pymongo
+python-dotenv
+numpy
+certifi
